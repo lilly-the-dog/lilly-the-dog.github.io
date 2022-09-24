@@ -1,4 +1,16 @@
 html, body {
   height: 100%;
   width: 100%;
+  text-align: center;
+  font-family: cursive;
+  background: hotpink;
+  color: green;
+  
 }
+
+img {
+  width: 500px;
+  height: 200px;
+}
+
+
